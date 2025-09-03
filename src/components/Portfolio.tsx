@@ -11,7 +11,7 @@ const Portfolio = () => {
       type: 'E-commerce',
       category: 'E-commerce Consultancy',
       description: 'Complete digital transformation for a luxury fashion brand',
-      image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://www.pexels.com/photo/man-in-a-blue-shirt-pointing-to-a-whiteboard-with-sticky-notes-7710088/',
       icon: ShoppingBag,
       color: 'cyan'
     },
