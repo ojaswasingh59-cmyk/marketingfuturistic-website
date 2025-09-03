@@ -25,7 +25,7 @@ const Hero = () => {
         
         <button className="group bg-gradient-to-r from-cyan-500 to-purple-600 hover:from-cyan-400 hover:to-purple-500 text-white px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-cyan-500/25 mb-12">
           <span className="flex items-center justify-center">
-            Grow your brand us!!
+            Grow your brand with us!!
             <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
           </span>
         </button>
